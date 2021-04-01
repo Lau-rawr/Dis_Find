@@ -11,5 +11,5 @@ Tabs for shows/parade times, wait times for rides, etc.
 * Location Services
   - Google Maps Plateform - APIs 
   - Android studio built in classes - LocationManager , and Geocoder ( which utilizes the phones gps sensor)
-* Uses themeparks API ## [Live Website](https://github.com/cubehouse/themeparks)for updated park information
+* Uses  [themeparks API ](https://github.com/cubehouse/themeparks) for updated park information
 
