@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "needle": "^2.6.0",
+    "wdwjs": "^3.1.9"
+  }
+}

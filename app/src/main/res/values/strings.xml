@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Diseny Find</string>
+    <string name="app_name">Disney Find</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="select_a_park">Select a Park</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hintTime">- - : - -</string>
+    <string name="lets_go">lets go</string>
 </resources>
